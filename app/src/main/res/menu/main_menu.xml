@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="Connect"
+        android:icon="@drawable/ic_device_connection"
+        android:id="@+id/bt_connect"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"/>
+    <item android:title="BtEnable"
+        android:icon="@drawable/ic_bluetooth_enable"
+        android:id="@+id/bt_toggle"
+        android:orderInCategory="300"
+        app:showAsAction="ifRoom"/>
+    <item android:title="BtList"
+        android:icon="@drawable/ic_bt_list"
+        android:id="@+id/bt_list"
+        android:orderInCategory="200"
+        app:showAsAction="ifRoom"/>
+</menu>

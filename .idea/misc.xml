@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/79912/AndroidStudioProjects/BluetoothChat/app/src/main/res/drawable/ic_bluetooth_disabled.xml" value="0.1" />
+        <entry key="..\:/Users/79912/AndroidStudioProjects/BluetoothChat/app/src/main/res/drawable/ic_bluetooth_enable.xml" value="0.1" />
+        <entry key="..\:/Users/79912/AndroidStudioProjects/BluetoothChat/app/src/main/res/drawable/ic_bluetooth_searching.xml" value="0.1" />
+        <entry key="..\:/Users/79912/AndroidStudioProjects/BluetoothChat/app/src/main/res/drawable/ic_bt_list.xml" value="0.1" />
+        <entry key="..\:/Users/79912/AndroidStudioProjects/BluetoothChat/app/src/main/res/drawable/ic_menu.xml" value="0.1" />
+        <entry key="..\:/Users/79912/AndroidStudioProjects/BluetoothChat/app/src/main/res/layout/activity_bt_list.xml" value="0.2604166666666667" />
+        <entry key="..\:/Users/79912/AndroidStudioProjects/BluetoothChat/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/79912/AndroidStudioProjects/BluetoothChat/app/src/main/res/layout/bt_list_item.xml" value="0.2734375" />
+        <entry key="..\:/Users/79912/AndroidStudioProjects/BluetoothChat/app/src/main/res/layout/bt_list_item_title.xml" value="0.4" />
+        <entry key="..\:/Users/79912/AndroidStudioProjects/BluetoothChat/app/src/main/res/menu/bt_list_menu.xml" value="0.264" />
+        <entry key="..\:/Users/79912/AndroidStudioProjects/BluetoothChat/app/src/main/res/menu/main_menu.xml" value="0.3225806451612903" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
